@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm a third year student of Electronics and Telecomunications at Poznań University of Technology.<br>🎯 I'm currently seeking my first professional experience as a PHP/Laravel developer <br>🔧 I'm currently working on mastering my Laravel skills, learning docker and Vue.</p>
+<p align="left">📚 I'm a third year student of Electronics and Telecomunications at Poznań University of Technology.<br>🎯 I'm currently seeking my first professional experience as a PHP/Laravel developer <br>🔧 I'm currently working on mastering my Laravel and Vue skills, also learning Kotlin for mobile apps developement.</p>
 
 ###
 
